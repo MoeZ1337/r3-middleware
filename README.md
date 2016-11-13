@@ -1,0 +1,1 @@
+This project is a culmination of react, react-router, redux, redux-middleware, as well as various tools for development support.
